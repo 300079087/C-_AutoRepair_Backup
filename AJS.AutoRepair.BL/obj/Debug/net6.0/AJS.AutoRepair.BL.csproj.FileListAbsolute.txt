@@ -1,0 +1,12 @@
+D:\school\C# Intermediate\AJS.AutoRepair\AJS.AutoRepair.BL\bin\Debug\net6.0\AJS.AutoRepair.BL.deps.json
+D:\school\C# Intermediate\AJS.AutoRepair\AJS.AutoRepair.BL\bin\Debug\net6.0\AJS.AutoRepair.BL.dll
+D:\school\C# Intermediate\AJS.AutoRepair\AJS.AutoRepair.BL\bin\Debug\net6.0\AJS.AutoRepair.BL.pdb
+D:\school\C# Intermediate\AJS.AutoRepair\AJS.AutoRepair.BL\obj\Debug\net6.0\AJS.AutoRepair.BL.csproj.AssemblyReference.cache
+D:\school\C# Intermediate\AJS.AutoRepair\AJS.AutoRepair.BL\obj\Debug\net6.0\AJS.AutoRepair.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\C# Intermediate\AJS.AutoRepair\AJS.AutoRepair.BL\obj\Debug\net6.0\AJS.AutoRepair.BL.AssemblyInfoInputs.cache
+D:\school\C# Intermediate\AJS.AutoRepair\AJS.AutoRepair.BL\obj\Debug\net6.0\AJS.AutoRepair.BL.AssemblyInfo.cs
+D:\school\C# Intermediate\AJS.AutoRepair\AJS.AutoRepair.BL\obj\Debug\net6.0\AJS.AutoRepair.BL.csproj.CoreCompileInputs.cache
+D:\school\C# Intermediate\AJS.AutoRepair\AJS.AutoRepair.BL\obj\Debug\net6.0\AJS.AutoRepair.BL.dll
+D:\school\C# Intermediate\AJS.AutoRepair\AJS.AutoRepair.BL\obj\Debug\net6.0\refint\AJS.AutoRepair.BL.dll
+D:\school\C# Intermediate\AJS.AutoRepair\AJS.AutoRepair.BL\obj\Debug\net6.0\AJS.AutoRepair.BL.pdb
+D:\school\C# Intermediate\AJS.AutoRepair\AJS.AutoRepair.BL\obj\Debug\net6.0\ref\AJS.AutoRepair.BL.dll

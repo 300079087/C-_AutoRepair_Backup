@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AJS.AutoRepair.UI/1.0.0": {
+        "dependencies": {
+          "AJS.AutoRepair.BL": "1.0.0"
+        },
+        "runtime": {
+          "AJS.AutoRepair.UI.dll": {}
+        }
+      },
+      "AJS.AutoRepair.BL/1.0.0": {
+        "runtime": {
+          "AJS.AutoRepair.BL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AJS.AutoRepair.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AJS.AutoRepair.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
